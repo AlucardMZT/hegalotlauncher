@@ -9,9 +9,6 @@
 		{
 			"name": "storeimages"
 		},
-		{
-			"name": "bin"
-		}
 	],
 	"clientFolder": "Hegalot",
 	"newClientUrl" : "https://github.com/AlucardMZT/hegalotlauncher/releases/download/hegal/Hegalot.zip",
