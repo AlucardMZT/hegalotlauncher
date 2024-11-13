@@ -10,6 +10,7 @@
 			"name": "storeimages"
 		}
 	],
+	"useExcludeFolders": true,
         "excludeFolders": [
 		{
 		        "name": "bin"
