@@ -15,3 +15,9 @@ Version que ahora Contiene
 -- se optimizo la Descarga y Descompresion del ZIP.
 -- Se bloquearon las carpetas "conf" y "characterdata"
 
+### UPDATE 2.0
+
+-- Boton discord optimizado y con link.
+-- Correcion al guardar hotkeys y correo.
+-- Optimizacion de las imagenes para mejor rendimiento.
+-- Optimizacion asincronica en todo el launcher para mejor rendimiento con PC de bajo recursos.
