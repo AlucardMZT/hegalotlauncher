@@ -1,7 +1,7 @@
 {
 	"clientVersion": "13.48",
 	"launcherVersion": "1.8",
-	"replaceFolders": true,
+	"replaceFolders": false,
 	"replaceFolderName": [
 		{
 			"name": "assets"
@@ -10,7 +10,7 @@
 			"name": "storeimages"
 		}
 	],
-	"useExcludeFolders": true,
+	"useExcludeFolders": false,
         "excludeFolders": [
 		{
 		        "name": "bin"
