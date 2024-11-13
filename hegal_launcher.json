@@ -10,6 +10,12 @@
 			"name": "bin"
 		},
 		{
+			"name": "conf"
+		},
+		{
+			"name": "characterdata"
+		},
+		{
 			"name": "storeimages"
 		}		
 	],	
