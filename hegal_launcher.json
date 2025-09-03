@@ -14,6 +14,6 @@
 		}		
 	],	
 	"clientFolder": "Hegalot",
-	"newClientUrl" : "https://github.com/AlucardMZT/hegalotlauncher/releases/download/hegal/hegalotamora.zip",
+	"newClientUrl" : "https://github.com/AlucardMZT/hegalotlauncher/releases/download/hegal/clientfiles.zip",
 	"clientExecutable": "hegalot.exe"
 }
